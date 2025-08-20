@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 🎯Analise de dados, unindo visão analítica com conhecimento em Engenharia de Produção, Business Intelligence e Supply Chain. 
 
 🔍 Sou graduado em Engenharia de Produção, com pós-graduação em Inteligência de Negócios e Engenharia de Suprimentos, e especialização em BI com foco no ecossistema Power BI (ETL com Power Query, modelagem de dados, DAX, dashboards e relatórios interativos).
@@ -17,4 +16,4 @@ Lean Six Sigma – Green Belt
 Noções de Python e uso de IA aplicada a resolução de problemas
 
 🌍 Inglês Intermediário | Visão estratégica | Forte capacidade de análise e integração entre áreas.
--->
+
